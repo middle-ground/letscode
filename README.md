@@ -1,1 +1,2 @@
-# letscode
+sequelize model:create --name User --attributes username:string,email:string,password:string,linkedIn:string,verifiedStatus:boolean,onlineStatus:boolean
+sequelize model:create --name Interest --attributes name:string,related_to:string 
